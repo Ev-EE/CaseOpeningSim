@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Knife
+comment0.text=\n\ Write\ a\ description\ of\ class\ Knife\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=s
+comment1.target=Knife(java.lang.String)
+comment2.params=y
+comment2.target=double\ doppler(double)
+numComments=3
